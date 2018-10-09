@@ -1,0 +1,2 @@
+dev.txt filter=gpg-DEV diff=gpg
+prod.txt filter=gpg-PROD diff=gpg
