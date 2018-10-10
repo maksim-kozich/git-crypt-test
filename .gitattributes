@@ -1,0 +1,2 @@
+dev.txt  filter=git-crypt-DEV diff=git-crypt-DEV
+prod.txt  filter=git-crypt-PROD diff=git-crypt-PROD
